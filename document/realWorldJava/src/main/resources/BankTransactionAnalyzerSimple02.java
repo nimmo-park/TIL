@@ -42,6 +42,7 @@ public class BankTransactionAnalyzerSimple02 {
 			}
 			
 		}
+		
 		return bankTransactionsInMonth;
 	}
 }
